@@ -1,4 +1,0 @@
-¿Qué se necesita para crear un programa? 
-Se necesita un algoritmo escrito en determinado lenguaje, así como una planificacion y visualización previa al programa, que puede ser mediante materiales gráficos como el cómic o un diagrama de flujo que nos facilitan la organización del programa.
-Con tus propias palabras (pero sin omitir elementos) ¿Qué es un algoritmo?
-Es una serie de pasos que nos dicen cómo transformar valores (entradas) en otros valores (salidas), de modo que cumplan un grupo de relaciones previamente detalladas. 
